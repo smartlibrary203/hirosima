@@ -928,7 +928,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Введите Текст\" href=\"https://mobirise.com\">ДЛЯ WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Введите Текст\" href=\"https://mobirise.com\">ДЛЯ MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/1533f8d556a713906f5501b65c0f4714.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1533f8d556a713906f5501b65c0f4714.jpeg",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
